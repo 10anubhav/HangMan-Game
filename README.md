@@ -11,7 +11,7 @@ This is a simple web-based Hangman game where players try to guess the name of a
 
 ## Demo
 
-You can view and play the game (#https://10anubhav.github.io/HangMan-Game/).
+You can view and play the game [Demo](https://10anubhav.github.io/HangMan-Game/).
 
 ## Getting Started
 
